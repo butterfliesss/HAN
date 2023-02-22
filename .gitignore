@@ -1,0 +1,8 @@
+**/__pycache__
+.vscode
+.history
+snapshot/
+
+Data/MELD
+Data/IEMOCAP6
+Data/GoogleNews-vectors-negative300.bin
