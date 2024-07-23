@@ -1,5 +1,5 @@
 # HAN-ReGRU: Hierarchical attention network with residual gated recurrent unit for emotion recognition in conversation
-This repository is the implement of our paper *[HAN-ReGRU: Hierarchical attention network with residual gated recurrent unit for emotion recognition in conversation](https://link.springer.com/article/10.1007/s00521-020-05063-7)*.
+This repository is the implementation of our paper *[HAN-ReGRU: Hierarchical attention network with residual gated recurrent unit for emotion recognition in conversation](https://link.springer.com/article/10.1007/s00521-020-05063-7)*.
 
 ## Model Architecture
 <!-- ![Image of MVN](fig/MVN.jpg) -->
